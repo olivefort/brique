@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    flex-direction: column;
+    margin: 0%;
+    padding: 0%;
+    width: auto;
+    height: auto;
+    align-items: center;
+}
+#l1, #l2, #l3, #l4, #l5, #l6, #l7, #l8, #l9{
+    display: flex;
+    flex-direction: row;
+    margin: 0%;
+    padding: 0%;
+    width: auto;
+    height: 27px;
+}
+#l1b1, #l1b2, #l1b3, #l1b4, #l1b5, #l1b6, #l1b7, #l1b8, #l1b9, #l2b1, #l2b2, #l2b3, #l2b4, #l2b5, #l2b6, #l2b7, #l2b8, #l2b9{
+    margin: 0%;
+    padding: 0%;
+    width: auto;
+    height: auto;
+}
